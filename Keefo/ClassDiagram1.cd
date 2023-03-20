@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Amafun.MainForm">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAKQCgUCKhBhJIQSKCAFIACUBSHxoaAIIaAQDUbAAo=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amafun.Program" Collapsed="true">
+    <Position X="2.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amafun.ThemeColor">
+    <Position X="2.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAACAAAAAAABAAAAAICAAACAAAAAAgA=</HashCode>
+      <FileName>ThemeColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amafun.Lists">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Lists.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amafun.DataBase">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAABABAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amafun.Forms.FormSettings">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAABAEAAiAAAACAAEAAFgAgQAAAAIAAAA=</HashCode>
+      <FileName>Forms\FormSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amafun.Forms.FormMyAds">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAGCAAAACEAACAAAgCAIEQAAAAgQAAAAAAAQQ=</HashCode>
+      <FileName>Forms\FormMyAds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amafun.Forms.FormMods">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICACAABAAAAACAAAASAIAAAAAAgAAAAAACgQQ=</HashCode>
+      <FileName>Forms\FormMods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amafun.Forms.FormCreateAds">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQMAAACAAABAAAAmEBAACQAABAAAAhAAAAAAAAAA=</HashCode>
+      <FileName>Forms\FormCreateAds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amafun.Forms.FormAds">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIQAQAACAAABAAAAiAABACAIkAAAAAgAAAAAAAgAA=</HashCode>
+      <FileName>Forms\FormAds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
