@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "USms1fmqfpQwabQ+PD8mFz+iD5QZhRhaTOvlfw9XNwiiPTCkOY+iNt9Ed0NuDQAhKZGMWCuUNEn09+cO8IrBRw==",
+  "dgSpecHash": "B+NF1r/P3b+CdGxxQ++WfnCsWvYbkLlugkEeZpbPeOtdyrMEYrYYWHF92T9Z7Gno9xdZAK4FQbOIReRJfZDGng==",
   "success": true,
-  "projectFilePath": "D:\\Учёба\\4-й курс\\Курсовая_БДиСУБД\\Amafun\\Keefo\\Amafun.csproj",
+  "projectFilePath": "C:\\GithubRepositories\\Amafun\\Keefo\\Amafun.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicol\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\nicol\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

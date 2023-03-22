@@ -36,6 +36,7 @@ namespace Amafun.Forms
         {
             dgvEnd.Columns["id"].Visible = false;
             dgvEnd.Columns["status"].Visible = false;
+            dgvEnd.Columns["user_login"].Visible = false;
 
             dgvEnd.Columns["category"].DisplayIndex = 0;
             dgvEnd.Columns["title"].DisplayIndex = 1;
@@ -46,8 +47,8 @@ namespace Amafun.Forms
             dgvEnd.Columns["category"].Width = 120;
             dgvEnd.Columns["title"].Width = 200;
             dgvEnd.Columns["description"].Width = 200;
-            dgvEnd.Columns["cost"].Width = 50;
-            dgvEnd.Columns["currency"].Width = 30;
+            dgvEnd.Columns["cost"].Width = 60;
+            dgvEnd.Columns["currency"].Width = 60;
 
             dgvEnd.Columns[2].HeaderText = "Категория";
             dgvEnd.Columns[3].HeaderText = "Заголовок";

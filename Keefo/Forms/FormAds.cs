@@ -55,8 +55,8 @@ namespace Amafun.Forms
             dgvAds.Columns["title"].Width = 200;
             dgvAds.Columns["description"].Width = 200;
             dgvAds.Columns["category"].Width = 120;
-            dgvAds.Columns["cost"].Width = 50;
-            dgvAds.Columns["currency"].Width = 30;
+            dgvAds.Columns["cost"].Width = 80;
+            dgvAds.Columns["currency"].Width = 60;
 
             dgvAds.Columns["title"].HeaderText = "Заголовок";
             dgvAds.Columns["description"].HeaderText = "Описание";

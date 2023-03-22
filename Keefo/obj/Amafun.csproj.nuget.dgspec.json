@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учёба\\4-й курс\\Курсовая_БДиСУБД\\Amafun\\Keefo\\Amafun.csproj": {}
+    "C:\\GithubRepositories\\Amafun\\Keefo\\Amafun.csproj": {}
   },
   "projects": {
-    "D:\\Учёба\\4-й курс\\Курсовая_БДиСУБД\\Amafun\\Keefo\\Amafun.csproj": {
+    "C:\\GithubRepositories\\Amafun\\Keefo\\Amafun.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учёба\\4-й курс\\Курсовая_БДиСУБД\\Amafun\\Keefo\\Amafun.csproj",
+        "projectUniqueName": "C:\\GithubRepositories\\Amafun\\Keefo\\Amafun.csproj",
         "projectName": "Amafun",
-        "projectPath": "D:\\Учёба\\4-й курс\\Курсовая_БДиСУБД\\Amafun\\Keefo\\Amafun.csproj",
+        "projectPath": "C:\\GithubRepositories\\Amafun\\Keefo\\Amafun.csproj",
         "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "D:\\Учёба\\4-й курс\\Курсовая_БДиСУБД\\Amafun\\Keefo\\obj\\",
+        "outputPath": "C:\\GithubRepositories\\Amafun\\Keefo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",

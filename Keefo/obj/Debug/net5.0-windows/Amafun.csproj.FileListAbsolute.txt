@@ -30,3 +30,35 @@ D:\Учёба\4-й курс\Курсовая_БДиСУБД\Amafun\Keefo\obj\Deb
 D:\Учёба\4-й курс\Курсовая_БДиСУБД\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.Forms.FormMyAds.resources
 D:\Учёба\4-й курс\Курсовая_БДиСУБД\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.Forms.FormSettings.resources
 D:\Учёба\4-й курс\Курсовая_БДиСУБД\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.MainForm.resources
+C:\GithubRepositories\Amafun\Keefo\bin\Debug\net5.0-windows\Amafun.exe
+C:\GithubRepositories\Amafun\Keefo\bin\Debug\net5.0-windows\Amafun.deps.json
+C:\GithubRepositories\Amafun\Keefo\bin\Debug\net5.0-windows\Amafun.runtimeconfig.json
+C:\GithubRepositories\Amafun\Keefo\bin\Debug\net5.0-windows\Amafun.runtimeconfig.dev.json
+C:\GithubRepositories\Amafun\Keefo\bin\Debug\net5.0-windows\Amafun.dll
+C:\GithubRepositories\Amafun\Keefo\bin\Debug\net5.0-windows\Amafun.pdb
+C:\GithubRepositories\Amafun\Keefo\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\GithubRepositories\Amafun\Keefo\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\GithubRepositories\Amafun\Keefo\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\GithubRepositories\Amafun\Keefo\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\GithubRepositories\Amafun\Keefo\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\GithubRepositories\Amafun\Keefo\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\GithubRepositories\Amafun\Keefo\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.csproj.AssemblyReference.cache
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.Forms.FormAds.resources
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.Forms.FormCreateAds.resources
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.Forms.FormMods.resources
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.Forms.FormMyAds.resources
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.Forms.FormSettings.resources
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.MainForm.resources
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.Properties.Resources.resources
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.csproj.GenerateResource.cache
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.GeneratedMSBuildEditorConfig.editorconfig
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.AssemblyInfoInputs.cache
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.AssemblyInfo.cs
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.csproj.CoreCompileInputs.cache
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.csproj.CopyComplete
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.dll
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\refint\Amafun.dll
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.pdb
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\Amafun.genruntimeconfig.cache
+C:\GithubRepositories\Amafun\Keefo\obj\Debug\net5.0-windows\ref\Amafun.dll

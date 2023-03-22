@@ -24,7 +24,11 @@ namespace Amafun.Forms
             DataSet set = new DataSet();
             string sql = "";
 
-            if (MainForm.moder) { sql = "SELECT * FROM `ads` WHERE `status` = 'moderate' "; btnSend.Visible = true; }
+            if (MainForm.moder) 
+            { 
+                sql = "SELECT * FROM `ads` WHERE `status` = 'moderate' "; 
+                btnSend.Visible = true; 
+            }
             else sql = "SELECT * FROM `ads` WHERE `status` = 'moderate' AND `user_login` = '" + MainForm.userLogin + "'";
 
             bd.OpenConnection();
@@ -38,7 +42,7 @@ namespace Amafun.Forms
         private void SetColumnsOrder()
         {
             dgvMode.Columns["id"].Visible = false;
-
+            
             dgvMode.Columns["status"].Visible = false;
 
             dgvMode.Columns["category"].DisplayIndex = 0;
@@ -48,10 +52,11 @@ namespace Amafun.Forms
             dgvMode.Columns["currency"].DisplayIndex = 4;
 
             dgvMode.Columns["category"].Width = 120;
-            dgvMode.Columns["title"].Width = 200;
-            dgvMode.Columns["description"].Width = 200;
-            dgvMode.Columns["cost"].Width = 50;
-            dgvMode.Columns["currency"].Width = 30;
+            dgvMode.Columns["title"].Width = 120;
+            dgvMode.Columns["description"].Width = 150;
+            dgvMode.Columns["cost"].Width = 60;
+            dgvMode.Columns["currency"].Width = 60;
+            dgvMode.Columns["user_login"].Width = 100;
 
             dgvMode.Columns[2].HeaderText = "Категория";
             dgvMode.Columns[3].HeaderText = "Заголовок";
