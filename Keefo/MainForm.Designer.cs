@@ -33,9 +33,9 @@
             this.btnLogout = new System.Windows.Forms.Button();
             this.btnSettings = new System.Windows.Forms.Button();
             this.btnEnd = new System.Windows.Forms.Button();
-            this.btnAds = new System.Windows.Forms.Button();
             this.btnMods = new System.Windows.Forms.Button();
             this.btnCreateAds = new System.Windows.Forms.Button();
+            this.btnAds = new System.Windows.Forms.Button();
             this.panelLogo = new System.Windows.Forms.Panel();
             this.lblLogoName = new System.Windows.Forms.Label();
             this.panelTitleBar = new System.Windows.Forms.Panel();
@@ -45,6 +45,7 @@
             this.btnCloseDesktop = new System.Windows.Forms.Button();
             this.lblTitle = new System.Windows.Forms.Label();
             this.panelDesktop = new System.Windows.Forms.Panel();
+            this.lblWelcome = new System.Windows.Forms.Label();
             this.panelReg = new System.Windows.Forms.Panel();
             this.labelChange2 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
@@ -146,25 +147,6 @@
             this.btnEnd.UseVisualStyleBackColor = true;
             this.btnEnd.Click += new System.EventHandler(this.btnMyAds_Click);
             // 
-            // btnAds
-            // 
-            this.btnAds.Dock = System.Windows.Forms.DockStyle.Top;
-            this.btnAds.FlatAppearance.BorderSize = 0;
-            this.btnAds.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAds.ForeColor = System.Drawing.Color.Gainsboro;
-            this.btnAds.Image = ((System.Drawing.Image)(resources.GetObject("btnAds.Image")));
-            this.btnAds.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnAds.Location = new System.Drawing.Point(0, 80);
-            this.btnAds.Name = "btnAds";
-            this.btnAds.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
-            this.btnAds.Size = new System.Drawing.Size(220, 60);
-            this.btnAds.TabIndex = 1;
-            this.btnAds.Text = "   Объявления";
-            this.btnAds.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnAds.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnAds.UseVisualStyleBackColor = true;
-            this.btnAds.Click += new System.EventHandler(this.btnAds_Click);
-            // 
             // btnMods
             // 
             this.btnMods.Dock = System.Windows.Forms.DockStyle.Top;
@@ -202,6 +184,25 @@
             this.btnCreateAds.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnCreateAds.UseVisualStyleBackColor = true;
             this.btnCreateAds.Click += new System.EventHandler(this.btnCreateAds_Click);
+            // 
+            // btnAds
+            // 
+            this.btnAds.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btnAds.FlatAppearance.BorderSize = 0;
+            this.btnAds.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnAds.ForeColor = System.Drawing.Color.Gainsboro;
+            this.btnAds.Image = ((System.Drawing.Image)(resources.GetObject("btnAds.Image")));
+            this.btnAds.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnAds.Location = new System.Drawing.Point(0, 80);
+            this.btnAds.Name = "btnAds";
+            this.btnAds.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
+            this.btnAds.Size = new System.Drawing.Size(220, 60);
+            this.btnAds.TabIndex = 1;
+            this.btnAds.Text = "   Объявления";
+            this.btnAds.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnAds.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnAds.UseVisualStyleBackColor = true;
+            this.btnAds.Click += new System.EventHandler(this.btnAds_Click);
             // 
             // panelLogo
             // 
@@ -318,11 +319,24 @@
             this.panelDesktop.BackColor = System.Drawing.Color.White;
             this.panelDesktop.Controls.Add(this.panelReg);
             this.panelDesktop.Controls.Add(this.panelAuth);
+            this.panelDesktop.Controls.Add(this.lblWelcome);
             this.panelDesktop.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelDesktop.Location = new System.Drawing.Point(222, 82);
             this.panelDesktop.Name = "panelDesktop";
             this.panelDesktop.Size = new System.Drawing.Size(676, 416);
             this.panelDesktop.TabIndex = 2;
+            // 
+            // lblWelcome
+            // 
+            this.lblWelcome.AutoSize = true;
+            this.lblWelcome.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblWelcome.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(150)))), ((int)(((byte)(136)))));
+            this.lblWelcome.Location = new System.Drawing.Point(30, 110);
+            this.lblWelcome.Name = "lblWelcome";
+            this.lblWelcome.Size = new System.Drawing.Size(609, 147);
+            this.lblWelcome.TabIndex = 3;
+            this.lblWelcome.Text = resources.GetString("lblWelcome.Text");
+            this.lblWelcome.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // panelReg
             // 
@@ -561,6 +575,7 @@
             this.panelLogo.PerformLayout();
             this.panelTitleBar.ResumeLayout(false);
             this.panelDesktop.ResumeLayout(false);
+            this.panelDesktop.PerformLayout();
             this.panelReg.ResumeLayout(false);
             this.panelReg.PerformLayout();
             this.panelAuth.ResumeLayout(false);
@@ -607,5 +622,6 @@
         private System.Windows.Forms.Label labelAuth;
         private System.Windows.Forms.Button btnLogout;
         private System.Windows.Forms.Button btnCreateAds;
+        private System.Windows.Forms.Label lblWelcome;
     }
 }

@@ -227,6 +227,16 @@
   <metadata name="labelAuth.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
+  <data name="lblWelcome.Text" xml:space="preserve">
+    <value>Добро пожаловать, пользователь!
+Для просмотра объявлений перейдите в "Объявления"
+Для подачи объявления перейдите в "Создать объявление"
+Для просмотра статуса своего поданного объявления перейдите в "На модерации"
+Для управления своими текущими объявлениями перейдите в "Мои объявления"
+Для настройки клиента перейдите в "Настройки"
+Для возврата на форму авторизации нажмите "Выход из аккаунта"
+</value>
+  </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAUAEBAAAAEAIABoBAAAVgAAABgYAAABACAAiAkAAL4EAAAgIAAAAQAgAKgQAABGDgAAMDAAAAEA
